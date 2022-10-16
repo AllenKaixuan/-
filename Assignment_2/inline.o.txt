@@ -1,0 +1,116 @@
+
+inline.o:     file format elf64-x86-64
+
+Contents of section .text:
+ 0000 89fabf00 00000031 c0e90000 00006690  .......1......f.
+ 0010 50bf0000 000031c0 e8000000 00488d74  P.....1......H.t
+ 0020 2404bf00 00000031 c0e80000 00008b74  $......1.......t
+ 0030 240485f6 7e27488d 4eff4189 f14183e1  $...~'H.N.A..A..
+ 0040 074883f9 077320ba 01000000 4889f14d  .H...s .....H..M
+ 0050 85c90f85 98000000 e9a10000 00ba0100  ................
+ 0060 0000e997 00000041 89f04183 e0f849f7  .......A..A...I.
+ 0070 d8ba0100 000031c9 0f1f8400 00000000  ......1.........
+ 0080 488d3c0e 480faffa 488d140e 4883c2ff  H.<.H...H...H...
+ 0090 488d040e 4883c0fe 480fafc2 480fafc7  H...H...H...H...
+ 00a0 488d3c0e 4883c7fd 488d140e 4883c2fc  H.<.H...H...H...
+ 00b0 480fafd7 488d3c0e 4883c7fb 480faffa  H...H.<.H...H...
+ 00c0 480faff8 488d040e 4883c0fa 488d140e  H...H...H...H...
+ 00d0 4883c2f9 480fafd0 480fafd7 4883c1f8  H...H...H...H...
+ 00e0 4939c875 9b4801f1 4d85c974 110f1f00  I9.u.H..M..t....
+ 00f0 480fafd1 4883c1ff 4983c1ff 75f2bf00  H...H...I...u...
+ 0100 00000031 c0e80000 000031c0 59c3      ...1......1.Y.  
+Contents of section .rodata.str1.1:
+ 0000 25642021 3d202025 6c6400e8 afb7e8be  %d !=  %ld......
+ 0010 93e585a5 e4bda0e8 a681e6b1 82e79a84  ................
+ 0020 e998b6e4 b998efbc 9a002564 00        ..........%d.   
+Contents of section .comment:
+ 0000 00556275 6e747520 636c616e 67207665  .Ubuntu clang ve
+ 0010 7273696f 6e203134 2e302e30 2d317562  rsion 14.0.0-1ub
+ 0020 756e7475 3100                        untu1.          
+Contents of section .eh_frame:
+ 0000 14000000 00000000 017a5200 01781001  .........zR..x..
+ 0010 1b0c0708 90010000 10000000 1c000000  ................
+ 0020 00000000 0e000000 00000000 18000000  ................
+ 0030 30000000 00000000 fe000000 00410e10  0............A..
+ 0040 02fc0e08 00000000                    ........        
+
+Disassembly of section .text:
+
+0000000000000000 <output>:
+   0:	89 fa                	mov    %edi,%edx
+   2:	bf 00 00 00 00       	mov    $0x0,%edi
+   7:	31 c0                	xor    %eax,%eax
+   9:	e9 00 00 00 00       	jmp    e <output+0xe>
+   e:	66 90                	xchg   %ax,%ax
+
+0000000000000010 <main>:
+  10:	50                   	push   %rax
+  11:	bf 00 00 00 00       	mov    $0x0,%edi
+  16:	31 c0                	xor    %eax,%eax
+  18:	e8 00 00 00 00       	call   1d <main+0xd>
+  1d:	48 8d 74 24 04       	lea    0x4(%rsp),%rsi
+  22:	bf 00 00 00 00       	mov    $0x0,%edi
+  27:	31 c0                	xor    %eax,%eax
+  29:	e8 00 00 00 00       	call   2e <main+0x1e>
+  2e:	8b 74 24 04          	mov    0x4(%rsp),%esi
+  32:	85 f6                	test   %esi,%esi
+  34:	7e 27                	jle    5d <main+0x4d>
+  36:	48 8d 4e ff          	lea    -0x1(%rsi),%rcx
+  3a:	41 89 f1             	mov    %esi,%r9d
+  3d:	41 83 e1 07          	and    $0x7,%r9d
+  41:	48 83 f9 07          	cmp    $0x7,%rcx
+  45:	73 20                	jae    67 <main+0x57>
+  47:	ba 01 00 00 00       	mov    $0x1,%edx
+  4c:	48 89 f1             	mov    %rsi,%rcx
+  4f:	4d 85 c9             	test   %r9,%r9
+  52:	0f 85 98 00 00 00    	jne    f0 <main+0xe0>
+  58:	e9 a1 00 00 00       	jmp    fe <main+0xee>
+  5d:	ba 01 00 00 00       	mov    $0x1,%edx
+  62:	e9 97 00 00 00       	jmp    fe <main+0xee>
+  67:	41 89 f0             	mov    %esi,%r8d
+  6a:	41 83 e0 f8          	and    $0xfffffff8,%r8d
+  6e:	49 f7 d8             	neg    %r8
+  71:	ba 01 00 00 00       	mov    $0x1,%edx
+  76:	31 c9                	xor    %ecx,%ecx
+  78:	0f 1f 84 00 00 00 00 	nopl   0x0(%rax,%rax,1)
+  7f:	00 
+  80:	48 8d 3c 0e          	lea    (%rsi,%rcx,1),%rdi
+  84:	48 0f af fa          	imul   %rdx,%rdi
+  88:	48 8d 14 0e          	lea    (%rsi,%rcx,1),%rdx
+  8c:	48 83 c2 ff          	add    $0xffffffffffffffff,%rdx
+  90:	48 8d 04 0e          	lea    (%rsi,%rcx,1),%rax
+  94:	48 83 c0 fe          	add    $0xfffffffffffffffe,%rax
+  98:	48 0f af c2          	imul   %rdx,%rax
+  9c:	48 0f af c7          	imul   %rdi,%rax
+  a0:	48 8d 3c 0e          	lea    (%rsi,%rcx,1),%rdi
+  a4:	48 83 c7 fd          	add    $0xfffffffffffffffd,%rdi
+  a8:	48 8d 14 0e          	lea    (%rsi,%rcx,1),%rdx
+  ac:	48 83 c2 fc          	add    $0xfffffffffffffffc,%rdx
+  b0:	48 0f af d7          	imul   %rdi,%rdx
+  b4:	48 8d 3c 0e          	lea    (%rsi,%rcx,1),%rdi
+  b8:	48 83 c7 fb          	add    $0xfffffffffffffffb,%rdi
+  bc:	48 0f af fa          	imul   %rdx,%rdi
+  c0:	48 0f af f8          	imul   %rax,%rdi
+  c4:	48 8d 04 0e          	lea    (%rsi,%rcx,1),%rax
+  c8:	48 83 c0 fa          	add    $0xfffffffffffffffa,%rax
+  cc:	48 8d 14 0e          	lea    (%rsi,%rcx,1),%rdx
+  d0:	48 83 c2 f9          	add    $0xfffffffffffffff9,%rdx
+  d4:	48 0f af d0          	imul   %rax,%rdx
+  d8:	48 0f af d7          	imul   %rdi,%rdx
+  dc:	48 83 c1 f8          	add    $0xfffffffffffffff8,%rcx
+  e0:	49 39 c8             	cmp    %rcx,%r8
+  e3:	75 9b                	jne    80 <main+0x70>
+  e5:	48 01 f1             	add    %rsi,%rcx
+  e8:	4d 85 c9             	test   %r9,%r9
+  eb:	74 11                	je     fe <main+0xee>
+  ed:	0f 1f 00             	nopl   (%rax)
+  f0:	48 0f af d1          	imul   %rcx,%rdx
+  f4:	48 83 c1 ff          	add    $0xffffffffffffffff,%rcx
+  f8:	49 83 c1 ff          	add    $0xffffffffffffffff,%r9
+  fc:	75 f2                	jne    f0 <main+0xe0>
+  fe:	bf 00 00 00 00       	mov    $0x0,%edi
+ 103:	31 c0                	xor    %eax,%eax
+ 105:	e8 00 00 00 00       	call   10a <main+0xfa>
+ 10a:	31 c0                	xor    %eax,%eax
+ 10c:	59                   	pop    %rcx
+ 10d:	c3                   	ret    

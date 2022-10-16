@@ -1,0 +1,1011 @@
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:437:12 <Spelling=/usr/include/stdio.h:437:38>>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:437:12 <Spelling=/usr/include/stdio.h:437:43>>
+restrict '__restrict'           Loc=</usr/include/stdio.h:437:12 <Spelling=/usr/include/stdio.h:437:44>>
+identifier '__format'    [LeadingSpace] Loc=</usr/include/stdio.h:437:12 <Spelling=/usr/include/stdio.h:437:55>>
+comma ','               Loc=</usr/include/stdio.h:437:12 <Spelling=/usr/include/stdio.h:437:63>>
+ellipsis '...'   [LeadingSpace] Loc=</usr/include/stdio.h:437:12 <Spelling=/usr/include/stdio.h:437:65>>
+r_paren ')'             Loc=</usr/include/stdio.h:437:12 <Spelling=/usr/include/stdio.h:437:68>>
+asm '__asm__'    [LeadingSpace] Loc=</usr/include/stdio.h:437:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:247:52>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:437:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:247:60>>
+string_literal '""'             Loc=</usr/include/stdio.h:437:12 <Spelling=<scratch space>:34:1>>
+string_literal '"__isoc99_scanf"'        [LeadingSpace] Loc=</usr/include/stdio.h:437:12 <Spelling=<scratch space>:33:1>>
+r_paren ')'             Loc=</usr/include/stdio.h:437:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:247:79>>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:438:31>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:439:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:439:8>
+identifier 'sscanf'      [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:439:28>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:439:36>>
+const 'const'           Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:439:37>>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:439:43>>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:439:48>>
+restrict '__restrict'           Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:439:49>>
+identifier '__s'         [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:439:60>>
+comma ','               Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:439:63>>
+const 'const'    [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:440:9>>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:440:15>>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:440:20>>
+restrict '__restrict'           Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:440:21>>
+identifier '__format'    [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:440:32>>
+comma ','               Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:440:40>>
+ellipsis '...'   [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:440:42>>
+r_paren ')'             Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/stdio.h:440:45>>
+asm '__asm__'    [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:255:17>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:255:25>>
+string_literal '""'             Loc=</usr/include/stdio.h:439:12 <Spelling=<scratch space>:36:1>>
+string_literal '"__isoc99_sscanf"'       [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=<scratch space>:35:1>>
+r_paren ')'             Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:255:44>>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:439:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'                Loc=</usr/include/stdio.h:441:23>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:459:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:459:8>
+identifier 'vfscanf'     [LeadingSpace] Loc=</usr/include/stdio.h:459:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:459:20>
+identifier 'FILE'               Loc=</usr/include/stdio.h:459:21>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:459:26>
+restrict '__restrict'           Loc=</usr/include/stdio.h:459:27>
+identifier '__s'         [LeadingSpace] Loc=</usr/include/stdio.h:459:38>
+comma ','               Loc=</usr/include/stdio.h:459:41>
+const 'const'    [LeadingSpace] Loc=</usr/include/stdio.h:459:43>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:459:49>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:459:54>
+restrict '__restrict'           Loc=</usr/include/stdio.h:459:55>
+identifier '__format'    [LeadingSpace] Loc=</usr/include/stdio.h:459:66>
+comma ','               Loc=</usr/include/stdio.h:459:74>
+identifier '__gnuc_va_list'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:460:7>
+identifier '__arg'       [LeadingSpace] Loc=</usr/include/stdio.h:460:22>
+r_paren ')'             Loc=</usr/include/stdio.h:460:27>
+__attribute '__attribute__'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:461:6>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:461:20>
+l_paren '('             Loc=</usr/include/stdio.h:461:21>
+identifier '__format__'         Loc=</usr/include/stdio.h:461:22>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:461:33>
+identifier '__scanf__'          Loc=</usr/include/stdio.h:461:34>
+comma ','               Loc=</usr/include/stdio.h:461:43>
+numeric_constant '2'     [LeadingSpace] Loc=</usr/include/stdio.h:461:45>
+comma ','               Loc=</usr/include/stdio.h:461:46>
+numeric_constant '0'     [LeadingSpace] Loc=</usr/include/stdio.h:461:48>
+r_paren ')'             Loc=</usr/include/stdio.h:461:49>
+r_paren ')'             Loc=</usr/include/stdio.h:461:50>
+r_paren ')'             Loc=</usr/include/stdio.h:461:51>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:461:58>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:467:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:467:8>
+identifier 'vscanf'      [LeadingSpace] Loc=</usr/include/stdio.h:467:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:467:19>
+const 'const'           Loc=</usr/include/stdio.h:467:20>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:467:26>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:467:31>
+restrict '__restrict'           Loc=</usr/include/stdio.h:467:32>
+identifier '__format'    [LeadingSpace] Loc=</usr/include/stdio.h:467:43>
+comma ','               Loc=</usr/include/stdio.h:467:51>
+identifier '__gnuc_va_list'      [LeadingSpace] Loc=</usr/include/stdio.h:467:53>
+identifier '__arg'       [LeadingSpace] Loc=</usr/include/stdio.h:467:68>
+r_paren ')'             Loc=</usr/include/stdio.h:467:73>
+__attribute '__attribute__'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:468:6>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:468:20>
+l_paren '('             Loc=</usr/include/stdio.h:468:21>
+identifier '__format__'         Loc=</usr/include/stdio.h:468:22>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:468:33>
+identifier '__scanf__'          Loc=</usr/include/stdio.h:468:34>
+comma ','               Loc=</usr/include/stdio.h:468:43>
+numeric_constant '1'     [LeadingSpace] Loc=</usr/include/stdio.h:468:45>
+comma ','               Loc=</usr/include/stdio.h:468:46>
+numeric_constant '0'     [LeadingSpace] Loc=</usr/include/stdio.h:468:48>
+r_paren ')'             Loc=</usr/include/stdio.h:468:49>
+r_paren ')'             Loc=</usr/include/stdio.h:468:50>
+r_paren ')'             Loc=</usr/include/stdio.h:468:51>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:468:58>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:471:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:471:8>
+identifier 'vsscanf'     [LeadingSpace] Loc=</usr/include/stdio.h:471:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:471:20>
+const 'const'           Loc=</usr/include/stdio.h:471:21>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:471:27>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:471:32>
+restrict '__restrict'           Loc=</usr/include/stdio.h:471:33>
+identifier '__s'         [LeadingSpace] Loc=</usr/include/stdio.h:471:44>
+comma ','               Loc=</usr/include/stdio.h:471:47>
+const 'const'    [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:472:7>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:472:13>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:472:18>
+restrict '__restrict'           Loc=</usr/include/stdio.h:472:19>
+identifier '__format'    [LeadingSpace] Loc=</usr/include/stdio.h:472:30>
+comma ','               Loc=</usr/include/stdio.h:472:38>
+identifier '__gnuc_va_list'      [LeadingSpace] Loc=</usr/include/stdio.h:472:40>
+identifier '__arg'       [LeadingSpace] Loc=</usr/include/stdio.h:472:55>
+r_paren ')'             Loc=</usr/include/stdio.h:472:60>
+__attribute '__attribute__'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:473:6 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:473:6 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:473:6 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:473:6 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:473:6 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:473:6 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:473:14>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:473:28>
+l_paren '('             Loc=</usr/include/stdio.h:473:29>
+identifier '__format__'         Loc=</usr/include/stdio.h:473:30>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:473:41>
+identifier '__scanf__'          Loc=</usr/include/stdio.h:473:42>
+comma ','               Loc=</usr/include/stdio.h:473:51>
+numeric_constant '2'     [LeadingSpace] Loc=</usr/include/stdio.h:473:53>
+comma ','               Loc=</usr/include/stdio.h:473:54>
+numeric_constant '0'     [LeadingSpace] Loc=</usr/include/stdio.h:473:56>
+r_paren ')'             Loc=</usr/include/stdio.h:473:57>
+r_paren ')'             Loc=</usr/include/stdio.h:473:58>
+r_paren ')'             Loc=</usr/include/stdio.h:473:59>
+semi ';'                Loc=</usr/include/stdio.h:473:60>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:479:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:479:8>
+identifier 'vfscanf'     [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:479:24>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:480:10>>
+identifier 'FILE'               Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:480:11>>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:480:16>>
+restrict '__restrict'           Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:480:17>>
+identifier '__s'         [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:480:28>>
+comma ','               Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:480:31>>
+const 'const'    [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:481:4>>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:481:10>>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:481:15>>
+restrict '__restrict'           Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:481:16>>
+identifier '__format'    [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:481:27>>
+comma ','               Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:481:35>>
+identifier '__gnuc_va_list'      [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:481:37>>
+identifier '__arg'       [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:481:52>>
+r_paren ')'             Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/stdio.h:481:57>>
+asm '__asm__'    [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:247:52>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:247:60>>
+string_literal '""'             Loc=</usr/include/stdio.h:479:12 <Spelling=<scratch space>:39:1>>
+string_literal '"__isoc99_vfscanf"'      [LeadingSpace] Loc=</usr/include/stdio.h:479:12 <Spelling=<scratch space>:38:1>>
+r_paren ')'             Loc=</usr/include/stdio.h:479:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:247:79>>
+__attribute '__attribute__'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:483:6>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:483:20>
+l_paren '('             Loc=</usr/include/stdio.h:483:21>
+identifier '__format__'         Loc=</usr/include/stdio.h:483:22>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:483:33>
+identifier '__scanf__'          Loc=</usr/include/stdio.h:483:34>
+comma ','               Loc=</usr/include/stdio.h:483:43>
+numeric_constant '2'     [LeadingSpace] Loc=</usr/include/stdio.h:483:45>
+comma ','               Loc=</usr/include/stdio.h:483:46>
+numeric_constant '0'     [LeadingSpace] Loc=</usr/include/stdio.h:483:48>
+r_paren ')'             Loc=</usr/include/stdio.h:483:49>
+r_paren ')'             Loc=</usr/include/stdio.h:483:50>
+r_paren ')'             Loc=</usr/include/stdio.h:483:51>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:483:58>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:484:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:484:8>
+identifier 'vscanf'      [LeadingSpace] Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:484:24>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:484:32>>
+const 'const'           Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:484:33>>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:484:39>>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:484:44>>
+restrict '__restrict'           Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:484:45>>
+identifier '__format'    [LeadingSpace] Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:484:56>>
+comma ','               Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:484:64>>
+identifier '__gnuc_va_list'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:485:5>>
+identifier '__arg'       [LeadingSpace] Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:485:20>>
+r_paren ')'             Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/stdio.h:485:25>>
+asm '__asm__'    [LeadingSpace] Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:247:52>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:247:60>>
+string_literal '""'             Loc=</usr/include/stdio.h:484:12 <Spelling=<scratch space>:41:1>>
+string_literal '"__isoc99_vscanf"'       [LeadingSpace] Loc=</usr/include/stdio.h:484:12 <Spelling=<scratch space>:40:1>>
+r_paren ')'             Loc=</usr/include/stdio.h:484:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:247:79>>
+__attribute '__attribute__'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:486:6>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:486:20>
+l_paren '('             Loc=</usr/include/stdio.h:486:21>
+identifier '__format__'         Loc=</usr/include/stdio.h:486:22>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:486:33>
+identifier '__scanf__'          Loc=</usr/include/stdio.h:486:34>
+comma ','               Loc=</usr/include/stdio.h:486:43>
+numeric_constant '1'     [LeadingSpace] Loc=</usr/include/stdio.h:486:45>
+comma ','               Loc=</usr/include/stdio.h:486:46>
+numeric_constant '0'     [LeadingSpace] Loc=</usr/include/stdio.h:486:48>
+r_paren ')'             Loc=</usr/include/stdio.h:486:49>
+r_paren ')'             Loc=</usr/include/stdio.h:486:50>
+r_paren ')'             Loc=</usr/include/stdio.h:486:51>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:486:58>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:487:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:487:8>
+identifier 'vsscanf'     [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:487:28>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:488:7>>
+const 'const'           Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:488:8>>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:488:14>>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:488:19>>
+restrict '__restrict'           Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:488:20>>
+identifier '__s'         [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:488:31>>
+comma ','               Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:488:34>>
+const 'const'    [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:489:8>>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:489:14>>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:489:19>>
+restrict '__restrict'           Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:489:20>>
+identifier '__format'    [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:489:31>>
+comma ','               Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:489:39>>
+identifier '__gnuc_va_list'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:490:8>>
+identifier '__arg'       [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:490:23>>
+r_paren ')'             Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/stdio.h:490:28>>
+asm '__asm__'    [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:255:17>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:255:25>>
+string_literal '""'             Loc=</usr/include/stdio.h:487:12 <Spelling=<scratch space>:43:1>>
+string_literal '"__isoc99_vsscanf"'      [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=<scratch space>:42:1>>
+r_paren ')'             Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:255:44>>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:487:12 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+__attribute '__attribute__'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:491:6>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:491:20>
+l_paren '('             Loc=</usr/include/stdio.h:491:21>
+identifier '__format__'         Loc=</usr/include/stdio.h:491:22>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:491:33>
+identifier '__scanf__'          Loc=</usr/include/stdio.h:491:34>
+comma ','               Loc=</usr/include/stdio.h:491:43>
+numeric_constant '2'     [LeadingSpace] Loc=</usr/include/stdio.h:491:45>
+comma ','               Loc=</usr/include/stdio.h:491:46>
+numeric_constant '0'     [LeadingSpace] Loc=</usr/include/stdio.h:491:48>
+r_paren ')'             Loc=</usr/include/stdio.h:491:49>
+r_paren ')'             Loc=</usr/include/stdio.h:491:50>
+r_paren ')'             Loc=</usr/include/stdio.h:491:51>
+semi ';'                Loc=</usr/include/stdio.h:491:52>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:513:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:513:8>
+identifier 'fgetc'       [LeadingSpace] Loc=</usr/include/stdio.h:513:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:513:18>
+identifier 'FILE'               Loc=</usr/include/stdio.h:513:19>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:513:24>
+identifier '__stream'           Loc=</usr/include/stdio.h:513:25>
+r_paren ')'             Loc=</usr/include/stdio.h:513:33>
+semi ';'                Loc=</usr/include/stdio.h:513:34>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:514:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:514:8>
+identifier 'getc'        [LeadingSpace] Loc=</usr/include/stdio.h:514:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:514:17>
+identifier 'FILE'               Loc=</usr/include/stdio.h:514:18>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:514:23>
+identifier '__stream'           Loc=</usr/include/stdio.h:514:24>
+r_paren ')'             Loc=</usr/include/stdio.h:514:32>
+semi ';'                Loc=</usr/include/stdio.h:514:33>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:520:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:520:8>
+identifier 'getchar'     [LeadingSpace] Loc=</usr/include/stdio.h:520:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:520:20>
+void 'void'             Loc=</usr/include/stdio.h:520:21>
+r_paren ')'             Loc=</usr/include/stdio.h:520:25>
+semi ';'                Loc=</usr/include/stdio.h:520:26>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:527:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:527:8>
+identifier 'getc_unlocked'       [LeadingSpace] Loc=</usr/include/stdio.h:527:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:527:26>
+identifier 'FILE'               Loc=</usr/include/stdio.h:527:27>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:527:32>
+identifier '__stream'           Loc=</usr/include/stdio.h:527:33>
+r_paren ')'             Loc=</usr/include/stdio.h:527:41>
+semi ';'                Loc=</usr/include/stdio.h:527:42>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:528:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:528:8>
+identifier 'getchar_unlocked'    [LeadingSpace] Loc=</usr/include/stdio.h:528:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:528:29>
+void 'void'             Loc=</usr/include/stdio.h:528:30>
+r_paren ')'             Loc=</usr/include/stdio.h:528:34>
+semi ';'                Loc=</usr/include/stdio.h:528:35>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:538:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:538:8>
+identifier 'fgetc_unlocked'      [LeadingSpace] Loc=</usr/include/stdio.h:538:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:538:27>
+identifier 'FILE'               Loc=</usr/include/stdio.h:538:28>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:538:33>
+identifier '__stream'           Loc=</usr/include/stdio.h:538:34>
+r_paren ')'             Loc=</usr/include/stdio.h:538:42>
+semi ';'                Loc=</usr/include/stdio.h:538:43>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:549:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:549:8>
+identifier 'fputc'       [LeadingSpace] Loc=</usr/include/stdio.h:549:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:549:18>
+int 'int'               Loc=</usr/include/stdio.h:549:19>
+identifier '__c'         [LeadingSpace] Loc=</usr/include/stdio.h:549:23>
+comma ','               Loc=</usr/include/stdio.h:549:26>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:549:28>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:549:33>
+identifier '__stream'           Loc=</usr/include/stdio.h:549:34>
+r_paren ')'             Loc=</usr/include/stdio.h:549:42>
+semi ';'                Loc=</usr/include/stdio.h:549:43>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:550:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:550:8>
+identifier 'putc'        [LeadingSpace] Loc=</usr/include/stdio.h:550:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:550:17>
+int 'int'               Loc=</usr/include/stdio.h:550:18>
+identifier '__c'         [LeadingSpace] Loc=</usr/include/stdio.h:550:22>
+comma ','               Loc=</usr/include/stdio.h:550:25>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:550:27>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:550:32>
+identifier '__stream'           Loc=</usr/include/stdio.h:550:33>
+r_paren ')'             Loc=</usr/include/stdio.h:550:41>
+semi ';'                Loc=</usr/include/stdio.h:550:42>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:556:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:556:8>
+identifier 'putchar'     [LeadingSpace] Loc=</usr/include/stdio.h:556:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:556:20>
+int 'int'               Loc=</usr/include/stdio.h:556:21>
+identifier '__c'         [LeadingSpace] Loc=</usr/include/stdio.h:556:25>
+r_paren ')'             Loc=</usr/include/stdio.h:556:28>
+semi ';'                Loc=</usr/include/stdio.h:556:29>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:565:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:565:8>
+identifier 'fputc_unlocked'      [LeadingSpace] Loc=</usr/include/stdio.h:565:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:565:27>
+int 'int'               Loc=</usr/include/stdio.h:565:28>
+identifier '__c'         [LeadingSpace] Loc=</usr/include/stdio.h:565:32>
+comma ','               Loc=</usr/include/stdio.h:565:35>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:565:37>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:565:42>
+identifier '__stream'           Loc=</usr/include/stdio.h:565:43>
+r_paren ')'             Loc=</usr/include/stdio.h:565:51>
+semi ';'                Loc=</usr/include/stdio.h:565:52>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:573:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:573:8>
+identifier 'putc_unlocked'       [LeadingSpace] Loc=</usr/include/stdio.h:573:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:573:26>
+int 'int'               Loc=</usr/include/stdio.h:573:27>
+identifier '__c'         [LeadingSpace] Loc=</usr/include/stdio.h:573:31>
+comma ','               Loc=</usr/include/stdio.h:573:34>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:573:36>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:573:41>
+identifier '__stream'           Loc=</usr/include/stdio.h:573:42>
+r_paren ')'             Loc=</usr/include/stdio.h:573:50>
+semi ';'                Loc=</usr/include/stdio.h:573:51>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:574:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:574:8>
+identifier 'putchar_unlocked'    [LeadingSpace] Loc=</usr/include/stdio.h:574:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:574:29>
+int 'int'               Loc=</usr/include/stdio.h:574:30>
+identifier '__c'         [LeadingSpace] Loc=</usr/include/stdio.h:574:34>
+r_paren ')'             Loc=</usr/include/stdio.h:574:37>
+semi ';'                Loc=</usr/include/stdio.h:574:38>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:581:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:581:8>
+identifier 'getw'        [LeadingSpace] Loc=</usr/include/stdio.h:581:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:581:17>
+identifier 'FILE'               Loc=</usr/include/stdio.h:581:18>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:581:23>
+identifier '__stream'           Loc=</usr/include/stdio.h:581:24>
+r_paren ')'             Loc=</usr/include/stdio.h:581:32>
+semi ';'                Loc=</usr/include/stdio.h:581:33>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:584:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:584:8>
+identifier 'putw'        [LeadingSpace] Loc=</usr/include/stdio.h:584:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:584:17>
+int 'int'               Loc=</usr/include/stdio.h:584:18>
+identifier '__w'         [LeadingSpace] Loc=</usr/include/stdio.h:584:22>
+comma ','               Loc=</usr/include/stdio.h:584:25>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:584:27>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:584:32>
+identifier '__stream'           Loc=</usr/include/stdio.h:584:33>
+r_paren ')'             Loc=</usr/include/stdio.h:584:41>
+semi ';'                Loc=</usr/include/stdio.h:584:42>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:592:1>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:592:8>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:592:13>
+identifier 'fgets'              Loc=</usr/include/stdio.h:592:14>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:592:20>
+char 'char'             Loc=</usr/include/stdio.h:592:21>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:592:26>
+restrict '__restrict'           Loc=</usr/include/stdio.h:592:27>
+identifier '__s'         [LeadingSpace] Loc=</usr/include/stdio.h:592:38>
+comma ','               Loc=</usr/include/stdio.h:592:41>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:592:43>
+identifier '__n'         [LeadingSpace] Loc=</usr/include/stdio.h:592:47>
+comma ','               Loc=</usr/include/stdio.h:592:50>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:592:52>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:592:57>
+restrict '__restrict'           Loc=</usr/include/stdio.h:592:58>
+identifier '__stream'    [LeadingSpace] Loc=</usr/include/stdio.h:592:69>
+r_paren ')'             Loc=</usr/include/stdio.h:592:77>
+semi ';'         [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:593:58>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:632:1>
+identifier '__ssize_t'   [LeadingSpace] Loc=</usr/include/stdio.h:632:8>
+identifier '__getdelim'  [LeadingSpace] Loc=</usr/include/stdio.h:632:18>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:632:29>
+char 'char'             Loc=</usr/include/stdio.h:632:30>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:632:35>
+star '*'                Loc=</usr/include/stdio.h:632:36>
+restrict '__restrict'           Loc=</usr/include/stdio.h:632:37>
+identifier '__lineptr'   [LeadingSpace] Loc=</usr/include/stdio.h:632:48>
+comma ','               Loc=</usr/include/stdio.h:632:57>
+identifier 'size_t'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:633:30>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:633:37>
+restrict '__restrict'           Loc=</usr/include/stdio.h:633:38>
+identifier '__n'         [LeadingSpace] Loc=</usr/include/stdio.h:633:49>
+comma ','               Loc=</usr/include/stdio.h:633:52>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:633:54>
+identifier '__delimiter'         [LeadingSpace] Loc=</usr/include/stdio.h:633:58>
+comma ','               Loc=</usr/include/stdio.h:633:69>
+identifier 'FILE'        [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:634:30>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:634:35>
+restrict '__restrict'           Loc=</usr/include/stdio.h:634:36>
+identifier '__stream'    [LeadingSpace] Loc=</usr/include/stdio.h:634:47>
+r_paren ')'             Loc=</usr/include/stdio.h:634:55>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:634:62>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:635:1>
+identifier '__ssize_t'   [LeadingSpace] Loc=</usr/include/stdio.h:635:8>
+identifier 'getdelim'    [LeadingSpace] Loc=</usr/include/stdio.h:635:18>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:635:27>
+char 'char'             Loc=</usr/include/stdio.h:635:28>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:635:33>
+star '*'                Loc=</usr/include/stdio.h:635:34>
+restrict '__restrict'           Loc=</usr/include/stdio.h:635:35>
+identifier '__lineptr'   [LeadingSpace] Loc=</usr/include/stdio.h:635:46>
+comma ','               Loc=</usr/include/stdio.h:635:55>
+identifier 'size_t'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:636:28>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:636:35>
+restrict '__restrict'           Loc=</usr/include/stdio.h:636:36>
+identifier '__n'         [LeadingSpace] Loc=</usr/include/stdio.h:636:47>
+comma ','               Loc=</usr/include/stdio.h:636:50>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:636:52>
+identifier '__delimiter'         [LeadingSpace] Loc=</usr/include/stdio.h:636:56>
+comma ','               Loc=</usr/include/stdio.h:636:67>
+identifier 'FILE'        [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:637:28>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:637:33>
+restrict '__restrict'           Loc=</usr/include/stdio.h:637:34>
+identifier '__stream'    [LeadingSpace] Loc=</usr/include/stdio.h:637:45>
+r_paren ')'             Loc=</usr/include/stdio.h:637:53>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:637:60>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:645:1>
+identifier '__ssize_t'   [LeadingSpace] Loc=</usr/include/stdio.h:645:8>
+identifier 'getline'     [LeadingSpace] Loc=</usr/include/stdio.h:645:18>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:645:26>
+char 'char'             Loc=</usr/include/stdio.h:645:27>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:645:32>
+star '*'                Loc=</usr/include/stdio.h:645:33>
+restrict '__restrict'           Loc=</usr/include/stdio.h:645:34>
+identifier '__lineptr'   [LeadingSpace] Loc=</usr/include/stdio.h:645:45>
+comma ','               Loc=</usr/include/stdio.h:645:54>
+identifier 'size_t'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:646:27>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:646:34>
+restrict '__restrict'           Loc=</usr/include/stdio.h:646:35>
+identifier '__n'         [LeadingSpace] Loc=</usr/include/stdio.h:646:46>
+comma ','               Loc=</usr/include/stdio.h:646:49>
+identifier 'FILE'        [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:647:27>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:647:32>
+restrict '__restrict'           Loc=</usr/include/stdio.h:647:33>
+identifier '__stream'    [LeadingSpace] Loc=</usr/include/stdio.h:647:44>
+r_paren ')'             Loc=</usr/include/stdio.h:647:52>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:647:59>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:655:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:655:8>
+identifier 'fputs'       [LeadingSpace] Loc=</usr/include/stdio.h:655:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:655:18>
+const 'const'           Loc=</usr/include/stdio.h:655:19>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:655:25>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:655:30>
+restrict '__restrict'           Loc=</usr/include/stdio.h:655:31>
+identifier '__s'         [LeadingSpace] Loc=</usr/include/stdio.h:655:42>
+comma ','               Loc=</usr/include/stdio.h:655:45>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:655:47>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:655:52>
+restrict '__restrict'           Loc=</usr/include/stdio.h:655:53>
+identifier '__stream'    [LeadingSpace] Loc=</usr/include/stdio.h:655:64>
+r_paren ')'             Loc=</usr/include/stdio.h:655:72>
+semi ';'                Loc=</usr/include/stdio.h:655:73>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:661:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:661:8>
+identifier 'puts'        [LeadingSpace] Loc=</usr/include/stdio.h:661:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:661:17>
+const 'const'           Loc=</usr/include/stdio.h:661:18>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:661:24>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:661:29>
+identifier '__s'                Loc=</usr/include/stdio.h:661:30>
+r_paren ')'             Loc=</usr/include/stdio.h:661:33>
+semi ';'                Loc=</usr/include/stdio.h:661:34>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:668:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:668:8>
+identifier 'ungetc'      [LeadingSpace] Loc=</usr/include/stdio.h:668:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:668:19>
+int 'int'               Loc=</usr/include/stdio.h:668:20>
+identifier '__c'         [LeadingSpace] Loc=</usr/include/stdio.h:668:24>
+comma ','               Loc=</usr/include/stdio.h:668:27>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:668:29>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:668:34>
+identifier '__stream'           Loc=</usr/include/stdio.h:668:35>
+r_paren ')'             Loc=</usr/include/stdio.h:668:43>
+semi ';'                Loc=</usr/include/stdio.h:668:44>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:675:1>
+identifier 'size_t'      [LeadingSpace] Loc=</usr/include/stdio.h:675:8>
+identifier 'fread'       [LeadingSpace] Loc=</usr/include/stdio.h:675:15>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:675:21>
+void 'void'             Loc=</usr/include/stdio.h:675:22>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:675:27>
+restrict '__restrict'           Loc=</usr/include/stdio.h:675:28>
+identifier '__ptr'       [LeadingSpace] Loc=</usr/include/stdio.h:675:39>
+comma ','               Loc=</usr/include/stdio.h:675:44>
+identifier 'size_t'      [LeadingSpace] Loc=</usr/include/stdio.h:675:46>
+identifier '__size'      [LeadingSpace] Loc=</usr/include/stdio.h:675:53>
+comma ','               Loc=</usr/include/stdio.h:675:59>
+identifier 'size_t'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:676:8>
+identifier '__n'         [LeadingSpace] Loc=</usr/include/stdio.h:676:15>
+comma ','               Loc=</usr/include/stdio.h:676:18>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:676:20>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:676:25>
+restrict '__restrict'           Loc=</usr/include/stdio.h:676:26>
+identifier '__stream'    [LeadingSpace] Loc=</usr/include/stdio.h:676:37>
+r_paren ')'             Loc=</usr/include/stdio.h:676:45>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:676:52>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:681:1>
+identifier 'size_t'      [LeadingSpace] Loc=</usr/include/stdio.h:681:8>
+identifier 'fwrite'      [LeadingSpace] Loc=</usr/include/stdio.h:681:15>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:681:22>
+const 'const'           Loc=</usr/include/stdio.h:681:23>
+void 'void'      [LeadingSpace] Loc=</usr/include/stdio.h:681:29>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:681:34>
+restrict '__restrict'           Loc=</usr/include/stdio.h:681:35>
+identifier '__ptr'       [LeadingSpace] Loc=</usr/include/stdio.h:681:46>
+comma ','               Loc=</usr/include/stdio.h:681:51>
+identifier 'size_t'      [LeadingSpace] Loc=</usr/include/stdio.h:681:53>
+identifier '__size'      [LeadingSpace] Loc=</usr/include/stdio.h:681:60>
+comma ','               Loc=</usr/include/stdio.h:681:66>
+identifier 'size_t'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:682:9>
+identifier '__n'         [LeadingSpace] Loc=</usr/include/stdio.h:682:16>
+comma ','               Loc=</usr/include/stdio.h:682:19>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:682:21>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:682:26>
+restrict '__restrict'           Loc=</usr/include/stdio.h:682:27>
+identifier '__s'         [LeadingSpace] Loc=</usr/include/stdio.h:682:38>
+r_paren ')'             Loc=</usr/include/stdio.h:682:41>
+semi ';'                Loc=</usr/include/stdio.h:682:42>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:702:1>
+identifier 'size_t'      [LeadingSpace] Loc=</usr/include/stdio.h:702:8>
+identifier 'fread_unlocked'      [LeadingSpace] Loc=</usr/include/stdio.h:702:15>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:702:30>
+void 'void'             Loc=</usr/include/stdio.h:702:31>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:702:36>
+restrict '__restrict'           Loc=</usr/include/stdio.h:702:37>
+identifier '__ptr'       [LeadingSpace] Loc=</usr/include/stdio.h:702:48>
+comma ','               Loc=</usr/include/stdio.h:702:53>
+identifier 'size_t'      [LeadingSpace] Loc=</usr/include/stdio.h:702:55>
+identifier '__size'      [LeadingSpace] Loc=</usr/include/stdio.h:702:62>
+comma ','               Loc=</usr/include/stdio.h:702:68>
+identifier 'size_t'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:703:10>
+identifier '__n'         [LeadingSpace] Loc=</usr/include/stdio.h:703:17>
+comma ','               Loc=</usr/include/stdio.h:703:20>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:703:22>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:703:27>
+restrict '__restrict'           Loc=</usr/include/stdio.h:703:28>
+identifier '__stream'    [LeadingSpace] Loc=</usr/include/stdio.h:703:39>
+r_paren ')'             Loc=</usr/include/stdio.h:703:47>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:703:54>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:704:1>
+identifier 'size_t'      [LeadingSpace] Loc=</usr/include/stdio.h:704:8>
+identifier 'fwrite_unlocked'     [LeadingSpace] Loc=</usr/include/stdio.h:704:15>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:704:31>
+const 'const'           Loc=</usr/include/stdio.h:704:32>
+void 'void'      [LeadingSpace] Loc=</usr/include/stdio.h:704:38>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:704:43>
+restrict '__restrict'           Loc=</usr/include/stdio.h:704:44>
+identifier '__ptr'       [LeadingSpace] Loc=</usr/include/stdio.h:704:55>
+comma ','               Loc=</usr/include/stdio.h:704:60>
+identifier 'size_t'      [LeadingSpace] Loc=</usr/include/stdio.h:704:62>
+identifier '__size'      [LeadingSpace] Loc=</usr/include/stdio.h:704:69>
+comma ','               Loc=</usr/include/stdio.h:704:75>
+identifier 'size_t'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:705:11>
+identifier '__n'         [LeadingSpace] Loc=</usr/include/stdio.h:705:18>
+comma ','               Loc=</usr/include/stdio.h:705:21>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:705:23>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:705:28>
+restrict '__restrict'           Loc=</usr/include/stdio.h:705:29>
+identifier '__stream'    [LeadingSpace] Loc=</usr/include/stdio.h:705:40>
+r_paren ')'             Loc=</usr/include/stdio.h:705:48>
+semi ';'                Loc=</usr/include/stdio.h:705:49>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:713:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:713:8>
+identifier 'fseek'       [LeadingSpace] Loc=</usr/include/stdio.h:713:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:713:18>
+identifier 'FILE'               Loc=</usr/include/stdio.h:713:19>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:713:24>
+identifier '__stream'           Loc=</usr/include/stdio.h:713:25>
+comma ','               Loc=</usr/include/stdio.h:713:33>
+long 'long'      [LeadingSpace] Loc=</usr/include/stdio.h:713:35>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:713:40>
+identifier '__off'       [LeadingSpace] Loc=</usr/include/stdio.h:713:44>
+comma ','               Loc=</usr/include/stdio.h:713:49>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:713:51>
+identifier '__whence'    [LeadingSpace] Loc=</usr/include/stdio.h:713:55>
+r_paren ')'             Loc=</usr/include/stdio.h:713:63>
+semi ';'                Loc=</usr/include/stdio.h:713:64>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:718:1>
+long 'long'      [LeadingSpace] Loc=</usr/include/stdio.h:718:8>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:718:13>
+identifier 'ftell'       [LeadingSpace] Loc=</usr/include/stdio.h:718:17>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:718:23>
+identifier 'FILE'               Loc=</usr/include/stdio.h:718:24>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:718:29>
+identifier '__stream'           Loc=</usr/include/stdio.h:718:30>
+r_paren ')'             Loc=</usr/include/stdio.h:718:38>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:718:45>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:723:1>
+void 'void'      [LeadingSpace] Loc=</usr/include/stdio.h:723:8>
+identifier 'rewind'      [LeadingSpace] Loc=</usr/include/stdio.h:723:13>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:723:20>
+identifier 'FILE'               Loc=</usr/include/stdio.h:723:21>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:723:26>
+identifier '__stream'           Loc=</usr/include/stdio.h:723:27>
+r_paren ')'             Loc=</usr/include/stdio.h:723:35>
+semi ';'                Loc=</usr/include/stdio.h:723:36>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:736:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:736:8>
+identifier 'fseeko'      [LeadingSpace] Loc=</usr/include/stdio.h:736:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:736:19>
+identifier 'FILE'               Loc=</usr/include/stdio.h:736:20>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:736:25>
+identifier '__stream'           Loc=</usr/include/stdio.h:736:26>
+comma ','               Loc=</usr/include/stdio.h:736:34>
+identifier '__off_t'     [LeadingSpace] Loc=</usr/include/stdio.h:736:36>
+identifier '__off'       [LeadingSpace] Loc=</usr/include/stdio.h:736:44>
+comma ','               Loc=</usr/include/stdio.h:736:49>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:736:51>
+identifier '__whence'    [LeadingSpace] Loc=</usr/include/stdio.h:736:55>
+r_paren ')'             Loc=</usr/include/stdio.h:736:63>
+semi ';'                Loc=</usr/include/stdio.h:736:64>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:741:1>
+identifier '__off_t'     [LeadingSpace] Loc=</usr/include/stdio.h:741:8>
+identifier 'ftello'      [LeadingSpace] Loc=</usr/include/stdio.h:741:16>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:741:23>
+identifier 'FILE'               Loc=</usr/include/stdio.h:741:24>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:741:29>
+identifier '__stream'           Loc=</usr/include/stdio.h:741:30>
+r_paren ')'             Loc=</usr/include/stdio.h:741:38>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:741:45>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:760:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:760:8>
+identifier 'fgetpos'     [LeadingSpace] Loc=</usr/include/stdio.h:760:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:760:20>
+identifier 'FILE'               Loc=</usr/include/stdio.h:760:21>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:760:26>
+restrict '__restrict'           Loc=</usr/include/stdio.h:760:27>
+identifier '__stream'    [LeadingSpace] Loc=</usr/include/stdio.h:760:38>
+comma ','               Loc=</usr/include/stdio.h:760:46>
+identifier 'fpos_t'      [LeadingSpace] Loc=</usr/include/stdio.h:760:48>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:760:55>
+restrict '__restrict'           Loc=</usr/include/stdio.h:760:56>
+identifier '__pos'       [LeadingSpace] Loc=</usr/include/stdio.h:760:67>
+r_paren ')'             Loc=</usr/include/stdio.h:760:72>
+semi ';'                Loc=</usr/include/stdio.h:760:73>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:765:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:765:8>
+identifier 'fsetpos'     [LeadingSpace] Loc=</usr/include/stdio.h:765:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:765:20>
+identifier 'FILE'               Loc=</usr/include/stdio.h:765:21>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:765:26>
+identifier '__stream'           Loc=</usr/include/stdio.h:765:27>
+comma ','               Loc=</usr/include/stdio.h:765:35>
+const 'const'    [LeadingSpace] Loc=</usr/include/stdio.h:765:37>
+identifier 'fpos_t'      [LeadingSpace] Loc=</usr/include/stdio.h:765:43>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:765:50>
+identifier '__pos'              Loc=</usr/include/stdio.h:765:51>
+r_paren ')'             Loc=</usr/include/stdio.h:765:56>
+semi ';'                Loc=</usr/include/stdio.h:765:57>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:786:1>
+void 'void'      [LeadingSpace] Loc=</usr/include/stdio.h:786:8>
+identifier 'clearerr'    [LeadingSpace] Loc=</usr/include/stdio.h:786:13>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:786:22>
+identifier 'FILE'               Loc=</usr/include/stdio.h:786:23>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:786:28>
+identifier '__stream'           Loc=</usr/include/stdio.h:786:29>
+r_paren ')'             Loc=</usr/include/stdio.h:786:37>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:786:39 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:786:39 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:786:39 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:786:39 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:786:39 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:786:39 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'                Loc=</usr/include/stdio.h:786:46>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:788:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:788:8>
+identifier 'feof'        [LeadingSpace] Loc=</usr/include/stdio.h:788:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:788:17>
+identifier 'FILE'               Loc=</usr/include/stdio.h:788:18>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:788:23>
+identifier '__stream'           Loc=</usr/include/stdio.h:788:24>
+r_paren ')'             Loc=</usr/include/stdio.h:788:32>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:788:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:788:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:788:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:788:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:788:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:788:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:788:47>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:790:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:790:8>
+identifier 'ferror'      [LeadingSpace] Loc=</usr/include/stdio.h:790:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:790:19>
+identifier 'FILE'               Loc=</usr/include/stdio.h:790:20>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:790:25>
+identifier '__stream'           Loc=</usr/include/stdio.h:790:26>
+r_paren ')'             Loc=</usr/include/stdio.h:790:34>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:790:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:790:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:790:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:790:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:790:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:790:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:790:49>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:794:1>
+void 'void'      [LeadingSpace] Loc=</usr/include/stdio.h:794:8>
+identifier 'clearerr_unlocked'   [LeadingSpace] Loc=</usr/include/stdio.h:794:13>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:794:31>
+identifier 'FILE'               Loc=</usr/include/stdio.h:794:32>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:794:37>
+identifier '__stream'           Loc=</usr/include/stdio.h:794:38>
+r_paren ')'             Loc=</usr/include/stdio.h:794:46>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:794:48 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:794:48 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:794:48 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:794:48 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:794:48 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:794:48 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'                Loc=</usr/include/stdio.h:794:55>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:795:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:795:8>
+identifier 'feof_unlocked'       [LeadingSpace] Loc=</usr/include/stdio.h:795:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:795:26>
+identifier 'FILE'               Loc=</usr/include/stdio.h:795:27>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:795:32>
+identifier '__stream'           Loc=</usr/include/stdio.h:795:33>
+r_paren ')'             Loc=</usr/include/stdio.h:795:41>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:795:43 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:795:43 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:795:43 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:795:43 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:795:43 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:795:43 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:795:56>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:796:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:796:8>
+identifier 'ferror_unlocked'     [LeadingSpace] Loc=</usr/include/stdio.h:796:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:796:28>
+identifier 'FILE'               Loc=</usr/include/stdio.h:796:29>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:796:34>
+identifier '__stream'           Loc=</usr/include/stdio.h:796:35>
+r_paren ')'             Loc=</usr/include/stdio.h:796:43>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:796:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:796:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:796:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:796:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:796:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:796:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:796:58>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:804:1>
+void 'void'      [LeadingSpace] Loc=</usr/include/stdio.h:804:8>
+identifier 'perror'      [LeadingSpace] Loc=</usr/include/stdio.h:804:13>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:804:20>
+const 'const'           Loc=</usr/include/stdio.h:804:21>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:804:27>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:804:32>
+identifier '__s'                Loc=</usr/include/stdio.h:804:33>
+r_paren ')'             Loc=</usr/include/stdio.h:804:36>
+semi ';'                Loc=</usr/include/stdio.h:804:37>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:809:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:809:8>
+identifier 'fileno'      [LeadingSpace] Loc=</usr/include/stdio.h:809:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:809:19>
+identifier 'FILE'               Loc=</usr/include/stdio.h:809:20>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:809:25>
+identifier '__stream'           Loc=</usr/include/stdio.h:809:26>
+r_paren ')'             Loc=</usr/include/stdio.h:809:34>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:809:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:809:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:809:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:809:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:809:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:809:36 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:809:49>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:814:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:814:8>
+identifier 'fileno_unlocked'     [LeadingSpace] Loc=</usr/include/stdio.h:814:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:814:28>
+identifier 'FILE'               Loc=</usr/include/stdio.h:814:29>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:814:34>
+identifier '__stream'           Loc=</usr/include/stdio.h:814:35>
+r_paren ')'             Loc=</usr/include/stdio.h:814:43>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:814:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:814:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:814:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:814:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:814:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:814:45 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:814:58>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:823:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:823:8>
+identifier 'pclose'      [LeadingSpace] Loc=</usr/include/stdio.h:823:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:823:19>
+identifier 'FILE'               Loc=</usr/include/stdio.h:823:20>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:823:25>
+identifier '__stream'           Loc=</usr/include/stdio.h:823:26>
+r_paren ')'             Loc=</usr/include/stdio.h:823:34>
+semi ';'                Loc=</usr/include/stdio.h:823:35>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:829:1>
+identifier 'FILE'        [LeadingSpace] Loc=</usr/include/stdio.h:829:8>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:829:13>
+identifier 'popen'              Loc=</usr/include/stdio.h:829:14>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:829:20>
+const 'const'           Loc=</usr/include/stdio.h:829:21>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:829:27>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:829:32>
+identifier '__command'          Loc=</usr/include/stdio.h:829:33>
+comma ','               Loc=</usr/include/stdio.h:829:42>
+const 'const'    [LeadingSpace] Loc=</usr/include/stdio.h:829:44>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:829:50>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:829:55>
+identifier '__modes'            Loc=</usr/include/stdio.h:829:56>
+r_paren ')'             Loc=</usr/include/stdio.h:829:63>
+__attribute '__attribute__'      [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:830:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:31>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:830:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:45>>
+l_paren '('             Loc=</usr/include/stdio.h:830:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:46>>
+identifier '__malloc__'         Loc=</usr/include/stdio.h:830:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:47>>
+r_paren ')'             Loc=</usr/include/stdio.h:830:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:57>>
+r_paren ')'             Loc=</usr/include/stdio.h:830:3 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:281:58>>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:830:56>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:837:1>
+char 'char'      [LeadingSpace] Loc=</usr/include/stdio.h:837:8>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:837:13>
+identifier 'ctermid'            Loc=</usr/include/stdio.h:837:14>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:837:22>
+char 'char'             Loc=</usr/include/stdio.h:837:23>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:837:28>
+identifier '__s'                Loc=</usr/include/stdio.h:837:29>
+r_paren ')'             Loc=</usr/include/stdio.h:837:32>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:837:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:837:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:837:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:837:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:837:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:837:34 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'         [StartOfLine] [LeadingSpace]   Loc=</usr/include/stdio.h:838:38>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:867:1>
+void 'void'      [LeadingSpace] Loc=</usr/include/stdio.h:867:8>
+identifier 'flockfile'   [LeadingSpace] Loc=</usr/include/stdio.h:867:13>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:867:23>
+identifier 'FILE'               Loc=</usr/include/stdio.h:867:24>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:867:29>
+identifier '__stream'           Loc=</usr/include/stdio.h:867:30>
+r_paren ')'             Loc=</usr/include/stdio.h:867:38>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:867:40 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:867:40 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:867:40 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:867:40 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:867:40 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:867:40 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'                Loc=</usr/include/stdio.h:867:47>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:871:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:871:8>
+identifier 'ftrylockfile'        [LeadingSpace] Loc=</usr/include/stdio.h:871:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:871:25>
+identifier 'FILE'               Loc=</usr/include/stdio.h:871:26>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:871:31>
+identifier '__stream'           Loc=</usr/include/stdio.h:871:32>
+r_paren ')'             Loc=</usr/include/stdio.h:871:40>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:871:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:871:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:871:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:871:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:871:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:871:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'         [LeadingSpace] Loc=</usr/include/stdio.h:871:55>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:874:1>
+void 'void'      [LeadingSpace] Loc=</usr/include/stdio.h:874:8>
+identifier 'funlockfile'         [LeadingSpace] Loc=</usr/include/stdio.h:874:13>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:874:25>
+identifier 'FILE'               Loc=</usr/include/stdio.h:874:26>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:874:31>
+identifier '__stream'           Loc=</usr/include/stdio.h:874:32>
+r_paren ')'             Loc=</usr/include/stdio.h:874:40>
+__attribute '__attribute__'      [LeadingSpace] Loc=</usr/include/stdio.h:874:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:19>>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:874:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:33>>
+l_paren '('             Loc=</usr/include/stdio.h:874:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:34>>
+identifier '__nothrow__'                Loc=</usr/include/stdio.h:874:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:35>>
+r_paren ')'      [LeadingSpace] Loc=</usr/include/stdio.h:874:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:53>>
+r_paren ')'             Loc=</usr/include/stdio.h:874:42 <Spelling=/usr/include/x86_64-linux-gnu/sys/cdefs.h:79:54>>
+semi ';'                Loc=</usr/include/stdio.h:874:49>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:885:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:885:8>
+identifier '__uflow'     [LeadingSpace] Loc=</usr/include/stdio.h:885:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:885:20>
+identifier 'FILE'               Loc=</usr/include/stdio.h:885:21>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:885:26>
+r_paren ')'             Loc=</usr/include/stdio.h:885:27>
+semi ';'                Loc=</usr/include/stdio.h:885:28>
+extern 'extern'  [StartOfLine]  Loc=</usr/include/stdio.h:886:1>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:886:8>
+identifier '__overflow'  [LeadingSpace] Loc=</usr/include/stdio.h:886:12>
+l_paren '('      [LeadingSpace] Loc=</usr/include/stdio.h:886:23>
+identifier 'FILE'               Loc=</usr/include/stdio.h:886:24>
+star '*'         [LeadingSpace] Loc=</usr/include/stdio.h:886:29>
+comma ','               Loc=</usr/include/stdio.h:886:30>
+int 'int'        [LeadingSpace] Loc=</usr/include/stdio.h:886:32>
+r_paren ')'             Loc=</usr/include/stdio.h:886:35>
+semi ';'                Loc=</usr/include/stdio.h:886:36>
+void 'void'      [StartOfLine]  Loc=<./output.c:1:1>
+identifier 'output'      [LeadingSpace] Loc=<./output.c:1:6>
+l_paren '('             Loc=<./output.c:1:12>
+int 'int'               Loc=<./output.c:1:13>
+identifier 'sum'         [LeadingSpace] Loc=<./output.c:1:17>
+comma ','               Loc=<./output.c:1:20>
+int 'int'               Loc=<./output.c:1:21>
+identifier 'n'   [LeadingSpace] Loc=<./output.c:1:25>
+r_paren ')'             Loc=<./output.c:1:26>
+l_brace '{'      [StartOfLine]  Loc=<./output.c:2:1>
+identifier 'printf'      [StartOfLine] [LeadingSpace]   Loc=<./output.c:3:6>
+l_paren '('             Loc=<./output.c:3:12>
+string_literal '"%d !=  %ld"'           Loc=<./output.c:3:13>
+comma ','               Loc=<./output.c:3:25>
+identifier 'n'   [LeadingSpace] Loc=<./output.c:3:27>
+comma ','               Loc=<./output.c:3:28>
+identifier 'sum'         [LeadingSpace] Loc=<./output.c:3:30>
+r_paren ')'             Loc=<./output.c:3:33>
+semi ';'                Loc=<./output.c:3:34>
+r_brace '}'      [StartOfLine]  Loc=<./output.c:4:1>
+int 'int'        [StartOfLine]  Loc=<main.c:4:1>
+identifier 'main'        [LeadingSpace] Loc=<main.c:4:5>
+l_paren '('             Loc=<main.c:4:9>
+r_paren ')'             Loc=<main.c:4:10>
+l_brace '{'      [StartOfLine]  Loc=<main.c:5:1>
+int 'int'        [StartOfLine] [LeadingSpace]   Loc=<main.c:6:5>
+identifier 'n'   [LeadingSpace] Loc=<main.c:6:9>
+semi ';'                Loc=<main.c:6:10>
+long 'long'      [StartOfLine] [LeadingSpace]   Loc=<main.c:7:5>
+int 'int'        [LeadingSpace] Loc=<main.c:7:10>
+identifier 'sum'         [LeadingSpace] Loc=<main.c:7:14>
+equal '='        [LeadingSpace] Loc=<main.c:7:18>
+numeric_constant '1'     [LeadingSpace] Loc=<main.c:7:20 <Spelling=main.c:3:14>>
+semi ';'                Loc=<main.c:7:20 <Spelling=main.c:3:15>>
+semi ';'                Loc=<main.c:7:24>
+int 'int'        [StartOfLine] [LeadingSpace]   Loc=<main.c:8:5>
+identifier 'i'   [LeadingSpace] Loc=<main.c:8:9>
+semi ';'                Loc=<main.c:8:10>
+identifier 'printf'      [StartOfLine] [LeadingSpace]   Loc=<main.c:9:5>
+l_paren '('             Loc=<main.c:9:11>
+string_literal '"请输入你要求的阶乘："'         Loc=<main.c:9:12>
+r_paren ')'             Loc=<main.c:9:44>
+semi ';'                Loc=<main.c:9:45>
+identifier 'scanf'       [StartOfLine] [LeadingSpace]   Loc=<main.c:10:5>
+l_paren '('             Loc=<main.c:10:10>
+string_literal '"%d"'           Loc=<main.c:10:11>
+comma ','               Loc=<main.c:10:15>
+amp '&'  [LeadingSpace] Loc=<main.c:10:17>
+identifier 'n'          Loc=<main.c:10:18>
+r_paren ')'             Loc=<main.c:10:19>
+semi ';'                Loc=<main.c:10:20>
+for 'for'        [StartOfLine] [LeadingSpace]   Loc=<main.c:11:5>
+l_paren '('      [LeadingSpace] Loc=<main.c:11:9>
+identifier 'i'          Loc=<main.c:11:10>
+equal '='        [LeadingSpace] Loc=<main.c:11:12>
+identifier 'n'   [LeadingSpace] Loc=<main.c:11:14>
+semi ';'                Loc=<main.c:11:15>
+identifier 'i'   [LeadingSpace] Loc=<main.c:11:17>
+greater '>'      [LeadingSpace] Loc=<main.c:11:19>
+numeric_constant '0'     [LeadingSpace] Loc=<main.c:11:21>
+semi ';'                Loc=<main.c:11:22>
+identifier 'i'   [LeadingSpace] Loc=<main.c:11:24>
+minusminus '--'         Loc=<main.c:11:25>
+r_paren ')'             Loc=<main.c:11:27>
+l_brace '{'      [StartOfLine] [LeadingSpace]   Loc=<main.c:12:5>
+identifier 'sum'         [StartOfLine] [LeadingSpace]   Loc=<main.c:13:9>
+starequal '*='   [LeadingSpace] Loc=<main.c:13:13>
+identifier 'i'   [LeadingSpace] Loc=<main.c:13:16>
+semi ';'                Loc=<main.c:13:17>
+r_brace '}'      [StartOfLine] [LeadingSpace]   Loc=<main.c:14:5>
+identifier 'output'      [StartOfLine] [LeadingSpace]   Loc=<main.c:15:5>
+l_paren '('             Loc=<main.c:15:11>
+identifier 'sum'                Loc=<main.c:15:12>
+comma ','               Loc=<main.c:15:15>
+identifier 'n'   [LeadingSpace] Loc=<main.c:15:17>
+r_paren ')'             Loc=<main.c:15:18>
+semi ';'                Loc=<main.c:15:19>
+return 'return'  [StartOfLine] [LeadingSpace]   Loc=<main.c:16:5>
+numeric_constant '0'     [LeadingSpace] Loc=<main.c:16:12>
+semi ';'                Loc=<main.c:16:13>
+r_brace '}'      [StartOfLine]  Loc=<main.c:17:1>
+eof ''          Loc=<main.c:17:2>
